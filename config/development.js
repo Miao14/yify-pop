@@ -21,7 +21,7 @@ var config = {
 , detailedErrors: true
 , debug: true
 , hostname: null
-, port: 4000
+, port: 80
 , model: {
     defaultAdapter: 'filesystem'
   }
